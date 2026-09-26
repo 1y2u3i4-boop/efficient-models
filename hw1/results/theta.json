@@ -1,0 +1,47 @@
+{
+  "latency": {
+    "t0": 0.00024369725671666607,
+    "tau": 1.9584485081098954e-05,
+    "bandwidth": 234167474486.0618,
+    "throughput": 3088234517923.2393
+  },
+  "energy": {
+    "t0": 0.00024369725671666607,
+    "tau": 1.9584485081098954e-05,
+    "bandwidth": 234167474486.0618,
+    "throughput": 3088234517923.2393,
+    "p_static": 59.95090496669707,
+    "e_flop": 7.169979551237834e-13,
+    "e_byte": 0.0
+  },
+  "layer_time_floor_s": 2.0871655007285384e-05,
+  "errors_percent": {
+    "latency": {
+      "calibration_mape": 16.70645239342931,
+      "validation_mape": 22.749238392129257,
+      "validation_max": 53.282679429621595
+    },
+    "memory": {
+      "calibration_mape": 52.9712862120014,
+      "validation_mape": 53.17578129316692,
+      "validation_max": 82.00649908605224
+    },
+    "energy": {
+      "calibration_mape": 14.857695602325723,
+      "validation_mape": 23.545315916767482,
+      "validation_max": 55.55372990235321
+    },
+    "flops": {
+      "calibration_mape": 0.0,
+      "validation_mape": 0.0,
+      "validation_max": 0.0
+    }
+  },
+  "oom": {
+    "memory_budget_bytes": 15486320640.0,
+    "predicted": 0,
+    "measured": 0,
+    "max_predicted_memory_bytes": 3493822224.0
+  },
+  "corr_flops_bytes": 0.9999999993588168
+}

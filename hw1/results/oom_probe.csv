@@ -1,0 +1,3 @@
+S,budget_bytes,total_bytes,B_max_predicted,B_max_measured,lo_fits,hi_fits
+512,15486320640,15637086208,868,865,True,False
+384,15486320640,15637086208,1543,1540,True,False
